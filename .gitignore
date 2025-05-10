@@ -2,3 +2,7 @@
 windows/winPEASx64.exe
 windows/SysinternalsSuite.zip 
 .DS_Store
+
+# macOS system files
+.DS_Store
+**/.DS_Store
